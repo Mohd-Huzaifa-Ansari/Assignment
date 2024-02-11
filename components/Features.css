@@ -1,0 +1,49 @@
+
+
+.features-box{
+    width: 100%;
+    height: auto;
+
+   
+
+}
+
+.feat{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    margin: 20px 0px;
+}
+
+
+.feat> h4{
+    width: 331px;
+    
+font-size: 45px;
+font-weight: 600;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.feat>p{
+    width: 480px;
+font-size: 18px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.cards-3{
+    height: auto;
+    width: 100%;
+
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

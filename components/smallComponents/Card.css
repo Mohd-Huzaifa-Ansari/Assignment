@@ -1,0 +1,37 @@
+.Cards{
+    width: 364px;
+    height: auto;
+    border-radius: 20px;
+
+    /* background-color: bisque; */
+
+}
+
+.Cards>h5{
+   
+font-size: 22px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+margin: 20px 0px;
+
+}
+.Cards>p{
+   
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #A6A6A6;
+
+}
+
+.image-box{
+    width: auto;
+    height: auto;
+
+
+}
+

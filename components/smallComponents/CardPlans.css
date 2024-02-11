@@ -1,0 +1,93 @@
+
+.cardplans{
+    box-shadow: 0px 4px 9px 0px #0000000D;
+
+    width: 320px;
+    height: 500px;
+    border-radius: 10px;
+    transition: all ease 0.8s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.cardplans>h4{
+   
+font-size: 30px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.cardplans>p{
+   
+font-size: 16px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color: #A6A6A6;
+
+
+}
+ 
+#prices{
+    
+font-size: 50px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+margin: 25px 0;
+
+}
+
+
+.cardplans>.ul-btn{
+    width: 80%;
+    height: auto;
+    background-color: #e6e4e4;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+.cardplans>.ul-btn>ul>li{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 8px;
+
+}
+.ul-btn>p{
+    display: flex;
+    flex-direction: column;
+}
+.ul-btn>button{
+    width: 70%;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: white;
+    color: #54BD95;
+
+}
+
+.cardplans:hover{
+    box-shadow: 0px 4px 9px 0px #0000000D;
+    background-color: #54BD95;
+    scale: 1.02;
+
+    width: 320px;
+    height: 500px;
+    border-radius: 10px;
+    color: white;
+
+
+}
